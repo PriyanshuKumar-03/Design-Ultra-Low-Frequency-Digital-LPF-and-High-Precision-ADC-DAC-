@@ -1,0 +1,1 @@
+This repository contains the hardware description language (HDL) source code, testbenches, synthesis scripts, and simulation netlists for the mixed-signal Successive Approximation Register (SAR) Analog-to-Digital Converter (ADC) and digital low-pass filter (LPF) design.
